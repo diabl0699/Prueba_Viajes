@@ -1,0 +1,19 @@
+#tarjetas {
+
+    display: flex;
+}
+
+.card img {
+
+    width: 100%;
+}
+
+.card {
+
+    width: 50%;
+}
+
+h1 {
+
+    font-family: "Roboto", sans-serif;
+}
